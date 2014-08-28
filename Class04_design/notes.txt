@@ -1,0 +1,11 @@
+Use illustrator, Photoshop or other drawing program like Sketch.
+My Favorite for Apps:https://github.com/blakeperdue/ios7-wireframe-kit
+
+Sketch Resource http://blog.mengto.com/how-to-wireframe-an-iphone-app-in-sketch/
+Sketch App https://itunes.apple.com/us/app/sketch-3/id852320343?mt=12
+
+Other Wireframes and Kitshttp://freebiesbug.com/psd-freebies/app-design/
+
+
+Font Awesome Cheatsheet
+http://fortawesome.github.io/Font-Awesome/cheatsheet/
