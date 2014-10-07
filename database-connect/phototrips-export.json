@@ -1,0 +1,22 @@
+{
+  "locations" : {
+    "North Korea" : {
+      "cost" : 9000,
+      "date" : 20140901,
+      "desc" : "See a place few westerners have ever seen.",
+      "photos" : "https://c1.staticflickr.com/3/2257/1706418822_67531aa58e_q.jpg"
+    },
+    "Thailand" : {
+      "cost" : 2500,
+      "date" : 20150314,
+      "desc" : "Travel to Chiang Mai and Bangkok with international photojournalist Steven King.",
+      "photos" : "https://c1.staticflickr.com/3/2257/1706418822_67531aa58e_q.jpg"
+    },
+    "UAE" : {
+      "cost" : 4500,
+      "date" : 20150205,
+      "desc" : "See and experience the arab culture during the International Shopping Festival in Dubai.",
+      "photos" : "https://c1.staticflickr.com/3/2371/2432735649_518d41a060_q.jpg"
+    }
+  }
+}
